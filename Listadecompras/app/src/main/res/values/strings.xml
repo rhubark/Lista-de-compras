@@ -2,4 +2,12 @@
     <string name="app_name">Lista de compras</string>
     <string name="nome_do_produto">Nome do produto</string>
     <string name="text_button">inserir</string>
+    <string name="product_name">Nome do Produto</string>
+    <string name="register_product">Cadastrar produto</string>
+    <string name="product_quantity">Quantidade</string>
+    <string name="cost_hint">R$ 0.00</string>
+    <string name="txt_btn">Inserir</string>
+    <string name="add_items">Adicionar itens</string>
+    <string name="amount">Total: 0,00</string>
+    <string name="quantidade">Qtd</string>
 </resources>
