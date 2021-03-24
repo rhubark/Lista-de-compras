@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista de compras</string>
+    <string name="nome_do_produto">Nome do produto</string>
+    <string name="text_button">inserir</string>
+</resources>
