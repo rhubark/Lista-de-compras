@@ -9,6 +9,7 @@ import android.view.View
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import androidx.annotation.RequiresApi
+import kotlinx.android.synthetic.main.activity_cadastro.*
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
@@ -25,6 +26,8 @@ class MainActivity : AppCompatActivity() {
             //iniciando a atividade
             startActivity(intent)
         }
+
+
 
         //Implementação do adaptador
         val produtoAdapter = ProdutoAdapter(this)
